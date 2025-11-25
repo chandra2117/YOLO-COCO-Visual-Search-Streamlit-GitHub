@@ -147,12 +147,13 @@ The app will run fully on CPU.
 
 ## 8. Output Screenshots (UI and Inference)
 
+### VS code Terminal
 
-<img width="1920" height="1020" alt="output of streamlit" src="https://github.com/user-attachments/assets/dbf7e7b7-0ca3-4a80-82a5-9e2569289c45" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/571d3ec1-949b-4e71-bf54-25fd7f00be26" />
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/140e361a-8f0a-4ee6-a84e-53f7bf6d406b" />
 
-<img width="1920" height="1020" alt="output of streamlit 1" src="https://github.com/user-attachments/assets/94cc6e2e-61a1-4323-83b8-694637f28cf4" />
-
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d89e4a06-283a-4ce9-9c3c-2656c1e5031c" />
 
 
 ## 9. Enhancements / Innovations Added
